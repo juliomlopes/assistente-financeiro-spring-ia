@@ -37,7 +37,7 @@ Uma API REST robusta desenvolvida em Java e Spring Boot que atua como um assiste
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/assistente-financeiro-spring-ia.git
+   git clone https://github.com/juliomlopes/assistente-financeiro-spring-ia.git
    cd assistente-financeiro-spring-ai
    ```
 
